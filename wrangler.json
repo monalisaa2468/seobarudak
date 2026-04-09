@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "seobarudak",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "bb19f9be-6269-4f6c-b2ee-fb4ac7287269",
+			"database_name": "seobarudak"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
